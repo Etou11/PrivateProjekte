@@ -1,0 +1,5 @@
+E:\Bot\WRobot\FightClass\Warlock.dll
+E:\Bot\WRobot\FightClass\Warlock.pdb
+d:\Users\Chris\documents\visual studio 2015\Projects\Warlock\Warlock\obj\Debug\Warlock.dll
+d:\Users\Chris\documents\visual studio 2015\Projects\Warlock\Warlock\obj\Debug\Warlock.pdb
+d:\Users\Chris\documents\visual studio 2015\Projects\Warlock\Warlock\obj\Debug\Warlock.csprojResolveAssemblyReference.cache

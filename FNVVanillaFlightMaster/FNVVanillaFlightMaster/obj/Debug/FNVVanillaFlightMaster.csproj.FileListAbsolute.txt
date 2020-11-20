@@ -1,0 +1,17 @@
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\FNVVanillaFlightMaster.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\FNVVanillaFlightMaster.pdb
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\MemoryRobot.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\robotManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\wManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\wResources.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\Neo.Lua.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\ScintillaNET.WPF.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\SlimDX.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\Newtonsoft.Json.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\Neo.Lua.Desktop.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\bin\Debug\ScintillaNET.dll
+d:\Bot\WRobot_G\Plugins\FNVVanillaFlightMaster.dll
+d:\Bot\WRobot_G\Plugins\FNVVanillaFlightMaster.pdb
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\obj\Debug\FNVVanillaFlightMaster.dll
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\obj\Debug\FNVVanillaFlightMaster.pdb
+d:\users\chris\documents\visual studio 2015\Projects\FNVVanillaFlightMaster\FNVVanillaFlightMaster\obj\Debug\FNVVanillaFlightMaster.csprojResolveAssemblyReference.cache

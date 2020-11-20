@@ -1,0 +1,16 @@
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\BuyAnyFood.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\BuyAnyFood.pdb
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\MemoryRobot.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\robotManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\wManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\SlimDX.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\Neo.Lua.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\Neo.Lua.Desktop.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\ScintillaNET.WPF.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\Newtonsoft.Json.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\bin\Debug\ScintillaNET.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\obj\Debug\BuyAnyFood.dll
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\obj\Debug\BuyAnyFood.pdb
+E:\Bot\WRobot\Plugins\BuyAnyFood.dll
+E:\Bot\WRobot\Plugins\BuyAnyFood.pdb
+d:\users\chris\documents\visual studio 2015\Projects\BuyAnyFood\BuyAnyFood\obj\Debug\BuyAnyFood.csprojResolveAssemblyReference.cache

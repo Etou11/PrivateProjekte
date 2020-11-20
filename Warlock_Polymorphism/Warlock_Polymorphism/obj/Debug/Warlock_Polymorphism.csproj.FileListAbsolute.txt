@@ -1,0 +1,14 @@
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\Warlock_Polymorphism.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\Warlock_Polymorphism.pdb
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\robotManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\wManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\wResources.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\SlimDX.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\Neo.Lua.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\ScintillaNET.WPF.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\Newtonsoft.Json.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\bin\Debug\ScintillaNET.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\obj\Debug\Warlock_Polymorphism.dll
+d:\users\chris\documents\visual studio 2015\Projects\Warlock_Polymorphism\Warlock_Polymorphism\obj\Debug\Warlock_Polymorphism.pdb
+E:\Bot\WRobot\FightClass\Warlock_Polymorphism.dll
+E:\Bot\WRobot\FightClass\Warlock_Polymorphism.pdb

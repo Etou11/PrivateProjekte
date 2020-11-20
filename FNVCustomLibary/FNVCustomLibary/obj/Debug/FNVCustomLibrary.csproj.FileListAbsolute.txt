@@ -1,0 +1,15 @@
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\FlightMaster.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\FlightMaster.pdb
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\MemoryRobot.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\robotManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\wManager.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\wResources.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\Neo.Lua.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\ScintillaNET.WPF.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\SlimDX.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\Newtonsoft.Json.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\Neo.Lua.Desktop.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\bin\Debug\ScintillaNET.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\obj\Debug\FlightMaster.dll
+d:\users\chris\documents\visual studio 2015\Projects\FlightMaster\FlightMaster\obj\Debug\FlightMaster.pdb
+D:\Users\Chris\Documents\Visual Studio 2015\Projects\FlightMaster\FlightMaster\obj\Debug\FNVCustomLibrary.csprojResolveAssemblyReference.cache
